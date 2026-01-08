@@ -21,7 +21,7 @@ export default function Tarea({ titulo, aEliminar}) {
 
     return (
         <div style={estiloCard}>
-            <span>📌 {titulo}</span>
+            <span>{titulo}</span>
             <button style={estiloBoton} onClick={aEliminar}>
                 Eliminar
             </button>

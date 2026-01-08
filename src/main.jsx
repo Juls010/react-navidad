@@ -11,13 +11,6 @@ import FormularioNombre from './components/FormularioNombre'
 import ListaTareas from './components/ListaTareas'
 import LoginForm from './components/LoginForm'
 
-/*
-import  Welcome  from './components/Welcome'
-import Greeting from './components/Greeting'
-import WelcomeCard from './components/WelcomeCard'
-import Counter from './components/Counter'
-import { MyForm } from './components/MyForm'
-*/
 const frutasFav = ['Manzana', 'Fresa', 'Melón', 'Uva'];
 const misTareas = ['Regar las plantas', 'Andar en la cinta', 'Llamar a Manoli', 'Sacar la basura'];
 
